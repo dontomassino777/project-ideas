@@ -1,0 +1,5 @@
+- instagram clone specific for calisthenics
+- fitness training tracker with data visualization
+- social media app for calisthenics practitioners to connect
+- a website clone of facebook
+- ecommerce site
